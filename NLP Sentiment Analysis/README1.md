@@ -133,21 +133,5 @@ http://localhost:8501
 - The application caches loaded models with `st.cache_resource`
 - The preprocessing pipeline is shared between training and inference to keep predictions consistent
 
-## Future Improvements
 
-- Add confidence scores
-- Expand to multi-class or aspect-based sentiment analysis
-- Train on a larger ecommerce review dataset
-- Deploy to Streamlit Community Cloud, Hugging Face Spaces, or Flask backend
 
-## Screenshots
-
-_Add screenshots here if available._
-
-## Contributors
-
-Project developed by Group 1 / P652.
-
-## License
-
-Add a license here if you plan to publish the repository publicly.
